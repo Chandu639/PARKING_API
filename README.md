@@ -78,6 +78,6 @@ Made with ❤️ using Spring Boot.
 
 ---
 
-Let me know if you want to add example JSON payloads or a section for environment configuration (like DB credentials).
+
 
 
